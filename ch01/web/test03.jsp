@@ -32,9 +32,9 @@
                 <th><label>좋아하는 동물</label></th>
                 <td>
                     <input type="checkbox" name="pet" value="dog" id="pet1" checked><label for="pet1">강아지</label><br>
-                    <input type="checkbox" name="pet" value="cat" id="pet2" checked><label for="pet2">고양이</label><br>
-                    <input type="checkbox" name="pet" value="cow" id="pet3" checked><label for="pet3">송아지</label><br>
-                    <input type="checkbox" name="pet" value="horse" id="pet4" checked><label for="pet4">망아지</label><br>
+                    <input type="checkbox" name="pet" value="cat" id="pet2" ><label for="pet2">고양이</label><br>
+                    <input type="checkbox" name="pet" value="cow" id="pet3" ><label for="pet3">송아지</label><br>
+                    <input type="checkbox" name="pet" value="horse" id="pet4" ><label for="pet4">망아지</label><br>
                 </td>
             </tr>
             <tr>
