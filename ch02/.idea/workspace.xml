@@ -12,9 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0a6febe-067d-4304-809c-2cd8d4f9d8cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test3.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/82102/Desktop/JSP/실습/ch02/web/WEB-INF/lib/tomcat-servlet-api-9.0.80.jar",
+    "last_opened_file_path": "C:/Users/82102/Desktop/WTC/java-baseball-6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -181,7 +178,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697262242858</updated>
-      <workItem from="1697262243808" duration="7619000" />
+      <workItem from="1697262243808" duration="8975000" />
+      <workItem from="1697787005873" duration="528000" />
     </task>
     <servers />
   </component>
