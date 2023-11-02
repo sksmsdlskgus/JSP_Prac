@@ -54,11 +54,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/82102/Desktop/WTC/java-baseball-6",
+    "last_opened_file_path": "C:/Users/82102/Desktop/JSP/실습/ch02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/82102/Desktop/JSP/실습/ch02/src/Main.java",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
@@ -72,6 +73,7 @@
       <recent name="C:\Users\82102\Desktop\JSP\실습\ch02\web\WEB-INF\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\82102\Desktop\JSP\실습\ch02\web" />
       <recent name="C:\Users\82102\Desktop\JSP\실습\ch02\web\WEB-INF" />
     </key>
   </component>
@@ -180,11 +182,24 @@
       <updated>1697262242858</updated>
       <workItem from="1697262243808" duration="8975000" />
       <workItem from="1697787005873" duration="528000" />
+      <workItem from="1698904877909" duration="1889000" />
+      <workItem from="1698906937420" duration="222000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
